@@ -1,0 +1,98 @@
+.objeto-contrato{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.scroll-encargos{
+    overflow-y: auto;
+    height: 100%;
+}
+
+.input-percentual{
+    width: 40px;
+}
+
+.modal-dialog {
+    right: -200px;
+    height: 100%;
+}
+
+.modal-body-contrato {
+    position: relative;
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    /* height: 6px; */
+    padding: 1rem;
+}
+
+.modal-content {
+    max-width: 850px;
+    right: -5px;
+    height: 46em;
+    /* top: unset; */
+}
+
+.modal-footer {
+    position: absolute;
+    bottom: 60px;
+    width: 95%; /* can use left: 0; right: 0; as well */
+    height: 3em;
+}
+
+/*------------------------------------------------*/
+/*               Scrool para table                */
+/*------------------------------------------------*/
+.side-bar-content {
+    overflow-y: auto;
+    height: 100%;
+}
+
+.card {
+    margin: 10px auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.card-body-modal-contrato {
+    /* margin: 10px auto; */ /* Added */
+    /* float: none; */ /* Added */
+    /* margin-bottom: 10px; */ /* Added */
+}
+
+/*------------------------------------------------*/
+/*      Altura da aba de dados do contrato        */
+/*------------------------------------------------*/
+.altura-tab-dados-contrato {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 25rem;
+    margin-right: 0.3rem;
+}
+
+/*------------------------------------------------*/
+/*        Tamanho da textArea do contrato         */
+/*------------------------------------------------*/
+.tamano-text-area-contrato {
+    height: 10rem;
+}
+
+/*------------------------------------------------*/
+/*        Altura das tabelas de encargos          */
+/*------------------------------------------------*/
+.altura-tab-encargos {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 24rem;
+    margin-right: 0.3rem;
+}
+
+/*------------------------------------------------*/
+/*    Altura das tabelas de empregados-contrato   */
+/*------------------------------------------------*/
+.altura-tab-empregados-contrato {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 24rem;
+    margin-right: 0.3rem;
+}

@@ -1,0 +1,41 @@
+/*.modal-full {
+    width: 0;
+    min-width: 100%;
+    margin: 0;
+}
+
+.modal-content {
+    max-width: 874px;
+    width: 60%;
+    right: -290px;
+    height: 40rem;
+    overflow-y: auto;
+}
+
+.modal.right .modal-content {
+    overflow-y: auto;
+}
+.modal-full .modal-content {
+    min-height: 89vh;
+}
+
+-----------------------
+ Tabela de Lançamentos 
+-----------------------
+.card-body {
+    -webkit-box-flex: 1;
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+}
+
+------------------------------------------------
+    Altura das tabelas de empregados-contrato   
+------------------------------------------------
+.altura-tab-empregados-contrato {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 25rem;
+    margin-right: 0.3rem;
+}
+*/

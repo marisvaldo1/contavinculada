@@ -1,0 +1,230 @@
+[05-Jun-2019 21:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:480
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 480
+[06-Jun-2019 23:24:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:480
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 480
+[07-Jun-2019 12:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:480
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 480
+[07-Jun-2019 16:43:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:480
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 480
+[07-Jun-2019 16:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:480
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 480
+[13-Jun-2019 13:07:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:480
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 480
+[19-Jun-2019 16:40:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[01-Jul-2019 23:09:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:510
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 510
+[24-Jul-2019 01:38:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:511
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 511
+[02-Aug-2019 19:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:511
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 511
+[09-Aug-2019 18:31:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:511
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 511
+[09-Aug-2019 18:31:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:511
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 511
+[26-Sep-2019 12:51:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:577
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 577
+[26-Sep-2019 12:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:577
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 577
+[26-Sep-2019 12:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:577
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 577
+[26-Sep-2019 14:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:578
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 578
+[26-Sep-2019 14:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:578
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 578
+[26-Sep-2019 14:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:578
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 578
+[03-Oct-2019 14:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:454
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 454
+[03-Oct-2019 15:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:454
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(6): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 454
+[01-Nov-2019 19:10:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:454
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 454
+[29-Nov-2019 08:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:454
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 454
+[03-Dec-2019 20:51:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:454
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 454
+[15-Jan-2020 21:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463
+[15-Jan-2020 21:05:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463
+[23-Jan-2020 11:58:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463
+[23-Jan-2020 14:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463
+[26-Jan-2020 22:38:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463
+[27-Jan-2020 14:48:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463
+[27-Jan-2020 22:04:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463
+[29-Jan-2020 11:42:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463
+[30-Jan-2020 02:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Usuario.php:463
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/seguranca/sair.php(7): modelo\Usuario::efetuaLogout()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 463

@@ -1,0 +1,105 @@
+[23-May-2019 18:16:46 UTC] PHP Fatal error:  Uncaught Error: Class 'modelo\EnviaEmail' not found in /home/dg54scdyztvt/public_html/app/login/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dg54scdyztvt/public_html/app/login/login.php on line 13
+[23-May-2019 18:19:50 UTC] PHP Fatal error:  Uncaught Error: Class 'modelo\EnviaEmail' not found in /home/dg54scdyztvt/public_html/app/login/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dg54scdyztvt/public_html/app/login/login.php on line 13
+[23-May-2019 18:20:01 UTC] PHP Fatal error:  Uncaught Error: Class 'modelo\EnviaEmail' not found in /home/dg54scdyztvt/public_html/app/login/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dg54scdyztvt/public_html/app/login/login.php on line 13
+[23-May-2019 18:24:22 UTC] PHP Fatal error:  Uncaught Error: Class 'modelo\EnviaEmail' not found in /home/dg54scdyztvt/public_html/app/login/login.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dg54scdyztvt/public_html/app/login/login.php on line 13
+[28-Aug-2019 00:06:39 UTC] PHP Parse error:  syntax error, unexpected 'Erro' (T_STRING) in /home/dg54scdyztvt/public_html/modelo/EnviaEmail.php on line 92
+[28-Aug-2019 00:06:43 UTC] PHP Parse error:  syntax error, unexpected 'Erro' (T_STRING) in /home/dg54scdyztvt/public_html/modelo/EnviaEmail.php on line 92
+[28-Aug-2019 00:06:48 UTC] PHP Parse error:  syntax error, unexpected 'Erro' (T_STRING) in /home/dg54scdyztvt/public_html/modelo/EnviaEmail.php on line 92
+[28-Aug-2019 00:07:10 UTC] PHP Parse error:  syntax error, unexpected 'Erro' (T_STRING) in /home/dg54scdyztvt/public_html/modelo/EnviaEmail.php on line 92
+[26-Sep-2019 00:28:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 00:28:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 00:30:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 00:31:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 00:32:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 00:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 00:46:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 01:01:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 01:02:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 01:02:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 01:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 01:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 11:54:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 11:55:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 11:55:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 12:12:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14
+[26-Sep-2019 12:13:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method seguranca\Usuario::setId_empresa_visitante() in /home/dg54scdyztvt/public_html/core/Autenticacao.php:14
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/login/login.php(28): Autenticacao::carregaSessaoComLogin(Object(stdClass))
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/Autenticacao.php on line 14

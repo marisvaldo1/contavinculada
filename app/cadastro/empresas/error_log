@@ -1,0 +1,58 @@
+[10-Feb-2019 12:55:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(52): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/empresas/empresa.html.php(186): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/empresas/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[08-Apr-2019 00:40:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(52): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/empresas/empresa.html.php(186): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/empresas/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[08-Apr-2019 00:40:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(52): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/empresas/empresa.html.php(186): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/empresas/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[21-May-2019 16:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(61): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/empresas/empresa.html.php(186): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/empresas/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[24-May-2019 21:56:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(61): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/empresas/empresa.html.php(186): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/empresas/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[05-Jun-2019 21:10:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(61): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/empresas/empresa.html.php(186): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/empresas/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[17-Jun-2019 16:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Empresa.php:138
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/cadastro/empresas/empresa.php(15): modelo\Empresa::buscaEmpresa()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Empresa.php on line 138
+[26-Sep-2019 14:14:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Empresa.php:138
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/cadastro/empresas/empresa.php(13): modelo\Empresa::buscaEmpresa('3')
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Empresa.php on line 138

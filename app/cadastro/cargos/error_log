@@ -1,0 +1,29 @@
+[01-Jun-2019 03:06:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(61): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/cargos/cargo.html.php(124): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/cargos/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[01-Jun-2019 03:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(61): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/cargos/cargo.html.php(124): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/cargos/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[12-Jun-2019 20:33:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Cargo.php:120
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/cadastro/cargos/cargo.php(18): modelo\Cargo::gravaCargo(Array)
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Cargo.php on line 120
+[12-Jun-2019 20:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(61): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/cargos/cargo.html.php(124): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/cargos/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171

@@ -1,0 +1,5 @@
+[15-May-2019 19:37:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Extrato.php:399
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/relatorios-gerenciais/rel_liberacoes_contrato/liberacoes_contrato_html.php(15): modelo\Extrato::listarLiberacao(Array)
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Extrato.php on line 399

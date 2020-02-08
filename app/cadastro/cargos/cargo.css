@@ -1,0 +1,22 @@
+.modal-full {
+    width: 0;
+    min-width: 100%;
+    margin: 0;
+}
+
+.modal-content {
+    max-width: 874px;
+    right: -90px;
+}
+
+.modal.right .modal-content {
+    overflow-y: auto;
+}
+.modal-full .modal-content {
+    min-height: 89vh;
+}
+
+.atendimentos-diarios {
+    border-radius: 0;
+    border: none;
+}

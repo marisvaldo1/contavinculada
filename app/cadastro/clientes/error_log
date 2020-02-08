@@ -1,0 +1,10 @@
+[25-Nov-2018 02:23:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNivel_acesso() on null in /home/dg54scdyztvt/public_html/core/funcoes.php:696
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/cadastro/clientes/cliente.html.php(5): verificaAcesso('clientes')
+#1 /home/dg54scdyztvt/public_html/app/cadastro/clientes/index.php(3): include('/home/dg54scdyz...')
+#2 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/funcoes.php on line 696
+[23-Jan-2020 17:15:31 UTC] PHP Warning:  Attempt to assign property 'erro' of non-object in /home/dg54scdyztvt/public_html/modelo/Cliente.php on line 314
+[23-Jan-2020 17:15:31 UTC] PHP Warning:  Attempt to assign property 'mensagem' of non-object in /home/dg54scdyztvt/public_html/modelo/Cliente.php on line 315
+[31-Jan-2020 14:47:59 UTC] PHP Warning:  Attempt to assign property 'erro' of non-object in /home/dg54scdyztvt/public_html/modelo/Cliente.php on line 314
+[31-Jan-2020 14:47:59 UTC] PHP Warning:  Attempt to assign property 'mensagem' of non-object in /home/dg54scdyztvt/public_html/modelo/Cliente.php on line 315

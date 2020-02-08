@@ -1,0 +1,13 @@
+[11-Apr-2019 02:06:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(59): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/encargos/encargo.html.php(118): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/encargos/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[17-Jun-2019 16:06:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getCliente_usuario() on null in /home/dg54scdyztvt/public_html/modelo/Encargo.php:68
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/cadastro/encargos/encargo.php(15): modelo\Encargo::buscaEncargo()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Encargo.php on line 68

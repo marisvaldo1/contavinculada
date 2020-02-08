@@ -1,0 +1,31 @@
+-- No Godady executar o script à partir do MySql WorkBench por conexão remota
+
+ALTER TABLE cargos AUTO_INCREMENT = 1;
+ALTER TABLE clientes AUTO_INCREMENT = 1;
+ALTER TABLE contratos AUTO_INCREMENT = 1;
+ALTER TABLE empregados AUTO_INCREMENT = 1;
+ALTER TABLE empresas AUTO_INCREMENT = 1;
+ALTER TABLE encargos AUTO_INCREMENT = 1;
+ALTER TABLE usuarios AUTO_INCREMENT = 1;
+
+-- Iserir categorias iniciais
+insert into categorias
+( nome_categoria, status_categoria)
+values
+("Federal", "ATIVO");
+
+-- Iserir empresa inicial
+insert into clientes
+( cnpj, razao, endereco, cidade, estado, cep, telefone, email, nome_contato, telefone_contato, status_cliente, id_categoria)
+values
+("12345678901234", "Secretaria de Fazenda do GDF", "Rua XXX", "Brasilia", "DF", "72001584", "6198855658", "sefaz@sefaz.gov.br", "Nome do contato", "000222111", "ATIVO", 1);
+
+-- Isere Administrador
+INSERT INTO usuarios
+  (nome, email, senha, nivel_acesso, opcoes_acesso, status_usuario, id_cliente)
+VALUES ('admin', 'admin@cv.com.br','admin123', 0, '', 'ATIVO', 1);
+   
+-- Isere Usuário
+INSERT INTO usuarios
+  (nome, email, senha, nivel_acesso, opcoes_acesso, status_usuario, id_cliente)
+VALUES ('usuario', 'usuario@cv.com.br','usuario123', 1, '', 'ATIVO', 1);

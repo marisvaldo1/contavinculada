@@ -1,0 +1,10 @@
+[21-Nov-2018 20:09:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelo\Usuario::setRazao() in /home/dg54scdyztvt/public_html/modelo/Usuario.php:141
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/controle_acesso/definicao_acesso/definicao_acesso.php(16): modelo\Usuario::buscaUsuario()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 141
+[01-Dec-2018 22:21:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method modelo\Usuario::setRazao() in /home/dg54scdyztvt/public_html/modelo/Usuario.php:141
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/app/controle_acesso/definicao_acesso/definicao_acesso.php(16): modelo\Usuario::buscaUsuario()
+#1 {main}
+  thrown in /home/dg54scdyztvt/public_html/modelo/Usuario.php on line 141

@@ -1,0 +1,23 @@
+.grafico-barras {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: auto;
+}
+
+.grafico-barras .barra {
+    background-color: steelblue;
+    height: 2rem;
+    line-height: 2rem;
+    margin: 2px 0;
+    font-size: 0.75rem;
+    color: black;
+    padding-left: 0.5rem;
+    cursor: default;
+    white-space: nowrap;
+}
+
+.grafico-barras .barra:hover {
+    background-color: brown;
+}

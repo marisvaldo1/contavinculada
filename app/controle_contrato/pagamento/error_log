@@ -1,0 +1,24 @@
+[12-Feb-2019 16:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(52): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/controle_contrato/pagamento/pagamento.html.php(180): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/controle_contrato/pagamento/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[15-Mar-2019 02:38:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(52): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/controle_contrato/pagamento/pagamento.html.php(188): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/controle_contrato/pagamento/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171
+[16-Mar-2019 23:00:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(52): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/controle_contrato/pagamento/pagamento.html.php(188): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/controle_contrato/pagamento/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171

@@ -1,0 +1,8 @@
+[12-Feb-2019 01:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function getNome() on null in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php:171
+Stack trace:
+#0 /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/padrao.php(52): include()
+#1 /home/dg54scdyztvt/public_html/core/templates/TemplateBootstrap4pikeAdmin.php(184): include('/home/dg54scdyz...')
+#2 /home/dg54scdyztvt/public_html/app/cadastro/categorias/categoria.html.php(110): templates\TemplateBootstrap4pikeAdmin->renderiza()
+#3 /home/dg54scdyztvt/public_html/app/cadastro/categorias/index.php(3): include('/home/dg54scdyz...')
+#4 {main}
+  thrown in /home/dg54scdyztvt/public_html/core/templates/bootstrap4pikeAdmin/inc/top-bar-navigation.php on line 171

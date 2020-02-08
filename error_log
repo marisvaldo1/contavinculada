@@ -1,0 +1,16 @@
+[25-May-2019 14:16:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_cliente_ip() in /home/dg54scdyztvt/public_html/getip.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dg54scdyztvt/public_html/getip.php on line 3
+[25-May-2019 14:17:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_cliente_ip() in /home/dg54scdyztvt/public_html/getip.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dg54scdyztvt/public_html/getip.php on line 3
+[25-May-2019 14:17:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_cliente_ip() in /home/dg54scdyztvt/public_html/getip.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dg54scdyztvt/public_html/getip.php on line 3
+[25-May-2019 14:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_cliente_ip() in /home/dg54scdyztvt/public_html/getip.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/dg54scdyztvt/public_html/getip.php on line 3

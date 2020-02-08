@@ -1,0 +1,41 @@
+.modal-full {
+    width: 0;
+    min-width: 100%;
+    margin: 0;
+}
+
+.modal-content {
+    max-width: 874px;
+    width: 60%;
+    /* right: -290px; */
+}
+
+.modal.right .modal-content {
+    overflow-y: auto;
+}
+.modal-full .modal-content {
+    min-height: 89vh;
+}
+
+.input-mesano-monthpicker {
+
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    background-clip: padding-box;
+    display: inline-block;
+    width: 100%;
+    background-color: #ffffff;
+    outline: none;
+    cursor: pointer;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #060606;
+    font-size: 1rem;
+    line-height: 1.5;
+    background-clip: padding-box;
+    border-radius: .25rem;
+    border: 1px solid #ced4da;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
